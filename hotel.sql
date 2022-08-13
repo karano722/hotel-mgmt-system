@@ -125,7 +125,7 @@ ALTER TABLE `reservation`
 -- AUTO_INCREMENT for dumped tables
 --
 
---
+--hello i am here to modified in your project forpractice
 -- AUTO_INCREMENT for table `booking`
 --
 ALTER TABLE `booking`
